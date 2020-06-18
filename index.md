@@ -12,4 +12,4 @@ Donnie Darko ist ein Film des US-amerikanischen Regisseurs Richard Kelly aus dem
 >Frank!
 
 ## Image
-<img src="https://en.wikipedia.org/wiki/Donnie_Darko:_The_Director%27s_Cut#/media/File:Donnie_Darko_Director's_Cut_poster.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Donnie_Darko_Director%27s_Cut_poster.jpg"/>
