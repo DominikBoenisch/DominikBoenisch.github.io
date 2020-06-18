@@ -8,5 +8,8 @@ Donnie Darko ist ein Film des US-amerikanischen Regisseurs Richard Kelly aus dem
 * hasst Hasenkostüme
 * weird und mysteriös
 
-##Zitat
+## Zitat
 >Frank!
+
+## Image
+<img src="https://en.wikipedia.org/wiki/Donnie_Darko:_The_Director%27s_Cut#/media/File:Donnie_Darko_Director's_Cut_poster.jpg"/>
